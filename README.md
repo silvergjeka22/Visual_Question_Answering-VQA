@@ -4,7 +4,7 @@ A deep learning project for answering questions about images using multimodal mo
 
 ---
 
-## What This Project Does
+## About This Project
 
 This project implements and compares several Visual Question Answering (VQA) models based on different combinations of image and text encoders:
 
