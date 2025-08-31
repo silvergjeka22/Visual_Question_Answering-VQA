@@ -25,10 +25,10 @@ This project implements and compares several Visual Question Answering (VQA) mod
 
 | Image Encoder | Text Encoder     | Notes                                |
 | ------------- | ---------------- | ------------------------------------ |
-| ViT (CLIP)    | LSTM             | Strong baseline                      |
-| ViT (CLIP)    | LSTM + Attention | Best performing overall              |
-| ViT (CLIP)    | 1D CNN           | Strong and fast model                |
-| ViT (CLIP)    | RNN              | Simple, lower performance            |
+| ViT           | LSTM             | Strong baseline                      |
+| ViT           | LSTM + Attention | Best performing overall              |
+| ViT           | 1D CNN           | Strong and fast model                |
+| ViT           | RNN              | Simple, lower performance            |
 | ResNet50      | All 4 above      | For comparison with traditional CNNs |
 
 ---
